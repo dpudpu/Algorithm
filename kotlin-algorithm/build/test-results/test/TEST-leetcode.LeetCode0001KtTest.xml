@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="leetcode.LeetCode0001KtTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2020-02-07T17:57:39" hostname="MacBook-Pro" time="0.054">
+  <properties/>
+  <testcase name="twoSum01 유효 케이스 테스트$kotlin_algorithm()" classname="leetcode.LeetCode0001KtTest" time="0.047"/>
+  <testcase name="twoSum02 유효 케이스 테스트$kotlin_algorithm()" classname="leetcode.LeetCode0001KtTest" time="0.006"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
