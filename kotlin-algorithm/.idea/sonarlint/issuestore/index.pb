@@ -11,3 +11,11 @@ A
 .src/test/kotlin/leetcode/LeetCode0001KtTest.kt,6/6/66da4c1f61656e828ef8f7714f635378565f6f99
 X
 (src/main/kotlin/leetcode/LeetCode0001.kt,c/a/cad70a3165b16f9fd33df3ee0d97392033fa2f8c
+C
+settings.gradle.kts,7/4/749edfcc96398253e5b3416184e95c46621da850
+X
+(src/main/kotlin/leetcode/LeetCode0002.kt,4/b/4b64c0d888fe1aec51985b8fc585ebdac970a68a
+X
+(src/main/kotlin/leetcode/LeetCode0007.kt,8/5/85590e582fde99ca0b5d52cd90cfabd101f3c9ce
+X
+(src/main/kotlin/leetcode/LeetCode0009.kt,f/a/fabcc0fc6291905533d0365f11a3e2fde83c229b
