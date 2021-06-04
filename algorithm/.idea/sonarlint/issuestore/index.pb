@@ -23,3 +23,9 @@ X
 .src/test/kotlin/leetcode/LeetCode0014KtTest.kt,7/9/79ceac4014844239c8982ed956f66ebe5f399c55
 X
 (src/main/kotlin/leetcode/LeetCode0014.kt,8/5/853243cdd6ea53de9bcd7f8a402f63c7afe1be27
+^
+.src/test/kotlin/leetcode/LeetCode0020KtTest.kt,7/c/7c718c1dcecaa0702bd9f365e30f768bd769688d
+X
+(src/main/kotlin/leetcode/LeetCode0020.kt,8/1/8150bb9e260dd1d4df5cd95c2c205ec21bc21dc9
+R
+"src/main/kotlin/leetcode/asdasd.kt,b/f/bf4667068d3cac91ee8b496fdbd9da00e5293ed3
