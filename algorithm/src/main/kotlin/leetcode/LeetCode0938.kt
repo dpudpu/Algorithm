@@ -6,3 +6,7 @@ fun rangeSumBST(node: TreeNode?, low: Int, high: Int): Int {
     if (node.`val` > high) return rangeSumBST(node.left, low, high)
     return rangeSumBST(node.right, low, high) + node.`val` + rangeSumBST(node.left, low, high)
 }
+class TreeNode(var `val`: Int) {
+    var left: TreeNode? = null
+    var right: TreeNode? = null
+}
